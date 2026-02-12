@@ -25,7 +25,7 @@ source .venv/bin/activate
 `uv pip`를 사용하여 필요한 파이썬 라이브러리를 설치합니다.
 
 ```bash
-uv add requests beautifulsoup4 pandas numpy matplotlib seaborn scikit-learn koreanize-matplotlib loguru, wordcloud
+uv add requests beautifulsoup4 pandas numpy matplotlib seaborn scikit-learn koreanize-matplotlib loguru wordcloud
 ```
 라이브러리를 설치하고 pyproject.toml 파일에 dependencies를 갱신해 줘
 
